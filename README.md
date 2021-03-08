@@ -1,2 +1,2 @@
-# Bhalo-Thaki
+# Online Telemedicine
 Online Doctor Appointment Service 
